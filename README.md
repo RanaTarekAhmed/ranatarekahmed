@@ -12,7 +12,7 @@
 
 ### 🌸 Connect with me:
 <p align="left"> 
-  <a href="https://linkedin.com/in/rana-tarek-ahmed/" target="blank">
+  <a href="https://linkedin.com/in/rana-tarek-ahmed-7b53972b7" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
   </a>
   <a href="https://codeforces.com/profile/RanaTarekAhmed" target="blank">
