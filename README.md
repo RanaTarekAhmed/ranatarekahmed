@@ -41,15 +41,13 @@
 ---
 
 ### 📊 GitHub Stats<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaTarekAhmed&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
 
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RanaTarekAhmed&show_icons=true&locale=en&layout=compact&theme=transparent" alt="RanaTarekAhmed" /></p>
 
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=18&section=footer)
-
-
 
 
 
