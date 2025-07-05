@@ -41,7 +41,9 @@
 ---
 
 ### 📊 GitHub Stats<p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RanaTarekAhmed&show_icons=true&locale=en&layout=compact&theme=transparent" alt="RanaTarekAhmed" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RanaTarekAhmed&show_icons=true&locale=en&layout=compact&theme=transparent" alt="RanaTarekAhmed" />
+</p>
 
 
 
