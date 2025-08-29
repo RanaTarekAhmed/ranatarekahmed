@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=18&text=Welcome%20to%20my%20GitHub!%20💕&textBg=false&fontSize=50&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=18&text=Welcome%20to%20my%20GitHub!%20&textBg=false&fontSize=50&animation=twinkling&fontColor=ffffff)
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 300px; width: 100%; overflow: hidden;">   
   <img
