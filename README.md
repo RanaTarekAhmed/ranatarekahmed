@@ -10,7 +10,7 @@
 
 ---
 
-### 🌸 Connect with me:
+### Connect with me:
 <p align="left"> 
   <a href="https://linkedin.com/in/rana-tarek-ahmed-7b53972b7" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 💖 Languages and Tools working on:
+### Languages and Tools working on:
 <p align="left"> 
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
