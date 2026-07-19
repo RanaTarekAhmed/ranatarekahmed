@@ -49,9 +49,9 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaTarekAhmed&layout=compact&theme=transparent" 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaTarekAhmed&layout=compact&theme=transparent&hide_border=true"
     alt="Top Languages"
   />
 </p>
